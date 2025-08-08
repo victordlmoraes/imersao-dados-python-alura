@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import pycountry
 
 # Configuração da página
 # Definie o título da página, o ícone e o layout para ocupar toda a largura
