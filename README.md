@@ -55,3 +55,8 @@ Será inicializado um servidor (via Streamlit), o navegador será inicializado n
 
 Este projeto está hospedado na plataforma do Streamlit. Clique no link a seguir para visualizar:
 https://victordlmoraes-imersao-dados-python-alura.streamlit.app/
+
+## Imagens do Projeto
+
+![](assets/imagem_1.png "Imagem 1")
+![](assets/imagem_2.png "Imagem 2")
