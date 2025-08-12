@@ -1,5 +1,4 @@
-# Imersão Dados com Python (Alura)
-
+# ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Imersão Dados com Python (Alura)
 Repositório com os arquivos utilizados na Imersão de Dados com Python, promovida pela Alura. Aqui você encontrará código, dados e instruções para rodar o projeto localmente.
 
 ---
