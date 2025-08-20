@@ -59,3 +59,5 @@ https://victordlmoraes-imersao-dados-python-alura.streamlit.app/
 
 ![](assets/imagem_1.png "Imagem 1")
 ![](assets/imagem_2.png "Imagem 2")
+
+*Os dados do projeto foram fornecidos gentilmente pela **Alura**. Para maiores informações, acesse o endereço: https://www.alura.com.br/*.
